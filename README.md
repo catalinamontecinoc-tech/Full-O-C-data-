@@ -4,7 +4,7 @@ This repository contains the eclipse timing measurements used in the analysis of
 
 ## Files
 
-- `HS0705_ETV_data.csv`  
+- `HS0705_eclipse_times.csv`  
   Columns:
   - Cycle: eclipse cycle number
   - BJD: mid-eclipse time (BJD)
