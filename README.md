@@ -8,7 +8,6 @@ This repository contains the eclipse timing measurements used in the analysis of
   Columns:
   - Cycle: eclipse cycle number
   - BJD: mid-eclipse time (BJD)
-  - O_minus_C: O–C residuals using a quadratic ephemeris
   - Error: timing uncertainty (days)
 
 ## Reference
